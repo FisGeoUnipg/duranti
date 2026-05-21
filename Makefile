@@ -1,8 +1,8 @@
 .PHONY: all 
-all: pages
+all: build
 
-.PHONY: pages
-pages:
+.PHONY: build
+build:
 	git clone https://github.com/FisGeoUnipg/pages.git
 	cd pages
 	make 
