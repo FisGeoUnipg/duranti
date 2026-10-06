@@ -15,6 +15,14 @@ date: '2026-09-30'
 
 [Segnale e DAQ](laboratorio_26-27/_slides/Segnale.pdf)
 
+###### Test auto-valutazione (con risposte)
+
+[Test auto-valutazione (con risposte)](laboratorio_26-27/_slides/Questionario_risposte.pdf)
+
+###### Esperienza 0: "Vocale WhatsApp"
+
+[Esperienza 0: "Vocale WhatsApp"](laboratorio_26-27/_slides/Esp0_Audio.pdf)
+
 ---
 
 ## Navigation
