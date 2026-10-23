@@ -23,6 +23,14 @@ date: '2026-09-30'
 
 [Esperienza 0: "Vocale WhatsApp"](laboratorio_26-27/_slides/Esp0_Audio.pdf)
 
+###### Amplificatore operazionale
+
+[Amplificatore operazionale](laboratorio_26-27/_slides/Operazionali.pdf)
+
+###### Esperienza 1: "Operazionali"
+
+[Esperienza 1: "Operazionali"](laboratorio_26-27/_slides/Esp1_Operazionale.pdf)
+
 ---
 
 ## Navigation

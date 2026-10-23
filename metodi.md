@@ -2,7 +2,7 @@
 title: Metodi
 url: 'http://localhost:8888/grav/metodi'
 markdown: 'http://localhost:8888/grav/metodi.md'
-date: '2026-07-27'
+date: '2026-10-23'
 ---
 
 # Metodi
