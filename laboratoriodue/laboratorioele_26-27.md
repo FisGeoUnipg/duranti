@@ -31,6 +31,26 @@ date: '2026-09-30'
 
 [Esperienza 1: "Operazionali"](laboratorio_26-27/_slides/Esp1_Operazionale.pdf)
 
+###### Transistor
+
+[Transistor](laboratorio_26-27/_slides/Transistor.pdf)
+
+###### Montaggio LED
+
+[Montaggio LED](laboratorio_26-27/_slides/MontaggioLED.pdf)
+
+###### LM35
+
+[LM35](laboratorio_26-27/_slides/LM35.pdf)
+
+###### Esperienza 2: "Flash ADC + LM35"
+
+[Esperienza 2: "Flash ADC + LM35"](laboratorio_26-27/_slides/Esp2_FlashADC-LM35.pdf)
+
+###### Fotodiodo
+
+[Fotodiodo](laboratorio_26-27/_slides/FotodiodoLED.pdf)
+
 ---
 
 ## Navigation
